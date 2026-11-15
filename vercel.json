@@ -1,0 +1,8 @@
+{
+  "functions": {
+    "api/rankings.js": {
+      "maxDuration": 10
+    }
+  }
+}
+
